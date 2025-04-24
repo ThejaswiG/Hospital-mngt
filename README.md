@@ -22,20 +22,3 @@ Features in our Application.<br/>
 •	Data is given in JSON formate and recieved in JSON.
 
 
-<h3>Screenshots</h3>
-
-<p>Home.</p><br>
-<img src="assests/1Capture.PNG" width="700" height="400">
-<hr>
-<p>Medicine Directory.</p><br>
-<img src="assests/2Capture.PNG" width="700" height="400">
-<hr>
-<p>Patient Diarctory</p><br>
-<img src="assests/3Capture.PNG" width="700" height="400">
-<hr>
-<p>Login</p><br>
-<img src="assests/4Capture.PNG" width="700" height="400">
-<hr>
-<p>Team</p><br>
-<img src="assests/5Capture.PNG" width="700" height="400">
-<hr>
