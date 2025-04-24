@@ -10,7 +10,7 @@ Features in our Application.<br/>
 •	Manage Contact service to help the app users.<br/>
 
 2.	Services and About us <br/>
-•	API, Pharmacy, Emergency Care, Nursing. <br/>
+•	API, Pharmacy, Emergency Care, NursiClick here to view Demo videong. <br/>
 •	About, Patient Management, Our Team, Career. <br/>
 
 3.	Download reports <br/>
@@ -21,7 +21,6 @@ Features in our Application.<br/>
 •	REST API end points for GET, POST, UPDATE, DELETE and PATCH the entities. <br/>
 •	Data is given in JSON formate and recieved in JSON.
 
-<h3><a href="https://youtu.be/3BQ3oRV8ubM">Click here to view Demo video</a></h3>
 
 <h3>Screenshots</h3>
 
